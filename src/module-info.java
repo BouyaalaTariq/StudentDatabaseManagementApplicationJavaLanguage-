@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author out
+ *
+ */
+module stdentDatabaseApplication {
+}
